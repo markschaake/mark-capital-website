@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html>
+  <head>
+
+    <style>
+     @import 'https://fonts.googleapis.com/css?family=Montserrat';
+     html, body {
+       margin: 0;
+       font-family: 'Montserrat', sans-serif;
+       color: #3e5574;
+       width: 100%;
+       height: 100%;
+     }
+
+     body {
+       width: 100%;
+       height: 100%;
+       display: flex;
+       flex-direction: column;
+     }
+
+     header {
+       box-shadow: 0 4px 4px #ccc;
+       padding: 10px;
+     }
+     header, footer {
+       background-color: #f3f9ff;
+       display: flex;
+       flex: none;
+     }
+
+     footer {
+       min-height: 100px;
+     }
+
+     .contact-info {
+       font-size: 12px;
+       display: flex;
+       flex-direction: column;
+       justify-content: center;
+     }
+
+     section.main {
+       flex: 1;
+       padding: 10px;
+     }
+
+     header .logo {
+       color: #3e5574;
+       flex: auto;
+       align-items: center;
+       display: flex;
+       font-size: 36px;
+       text-align: center;
+     }
+
+     table.params {
+       font-size: 14px;
+       border: 1px solid black;
+       border-collapse: collapse;
+     }
+
+     table.params tbody th, td {
+       padding: 3px;
+       border: 1px solid black;
+     }
+    </style>
+  </head>
+
+  <body>
+    <header>
+      <div class="logo">
+        <img src="assets/logo-2-tone-rounded.png"/>
+        <span class="tagline">Mark Capital</span>
+      </div>
+      <div class="contact-info">
+        <strong>Contact:</strong><br>
+        509-594-6528<br>
+        <a href="mailto:info@mark.capital">info@mark.capital</a>
+      </div>
+    </header>
+
+    <section class="main">
+
+      <section id="about">
+        <h2>Introducing <strong>Mark Capital</strong></h2>
+        <strong>Mark Capital</strong> is a new equipment funding source. If you are a broker and would like to learn more about our plans, feel free to email or call us.
+      </section>
+      <section id="parameters">
+        <h2>Funding Parameters</h2>
+        <table class="params">
+          <thead></thead>
+          <tbody>
+            <tr><th>Transaction Size</th><td>$20,000 to $250,000</td></tr>
+            <tr><th>Term Length</th><td>24 to 60 months</td></tr>
+            <tr>
+              <th>Preferred Equipment</th>
+              <td><ul>
+                <li>Trucks and Trailers</li>
+                <li>Construction</li>
+                <li>Logging</li>
+                <li>Agriculture</li>
+              </ul></td>
+            </tr>
+            <tr>
+              <th>States Served</th>
+              <td><ul>
+                <li>Washington</li>
+                <li>Oregon</li>
+                <li>Idaho</li>
+                <li>Montana</li>
+                <li>Utah</li>
+                <li>California</li>
+              </ul></td>
+            </tr>
+          </tbody>
+        </table>
+      </section>
+    </section>
+
+    <footer>
+      <a href="mailto:info@mark.capital">Contact us</a>
+    </footer>
+  </body>
+</html>

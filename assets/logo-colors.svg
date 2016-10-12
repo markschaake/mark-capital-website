@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:export-ydpi="90"
+   inkscape:export-xdpi="90"
+   inkscape:export-filename="/Users/markschaake/projects/mark-capital/website/assets/logo-colors.png"
+   sodipodi:docname="logo-colors.svg"
+   viewBox="0 0 64 64"
+   inkscape:version="0.91 r13725"
+   version="1.1"
+   id="svg4225"
+   height="64"
+   width="64">
+  <defs
+     id="defs4227" />
+  <sodipodi:namedview
+     inkscape:window-maximized="0"
+     inkscape:window-y="0"
+     inkscape:window-x="43"
+     inkscape:window-height="755"
+     inkscape:window-width="1276"
+     inkscape:grid-bbox="true"
+     inkscape:document-units="px"
+     showgrid="true"
+     inkscape:current-layer="layer1"
+     inkscape:cy="32.480429"
+     inkscape:cx="37.187898"
+     inkscape:zoom="5.5"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <metadata
+     id="metadata4230">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer">
+    <path
+       style="fill:#3e5574;fill-opacity:1;stroke-width:1.34300005;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 0,0 0,64 64,0 0,-10 -54,0 0,-44 48.363636,0 0,-10 z"
+       id="rect4257"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccc" />
+    <rect
+       y="12"
+       x="13"
+       height="40"
+       width="11"
+       id="rect4828"
+       style="fill:#3e5574;fill-opacity:0.84090906;stroke-width:1.34300005;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
+    <rect
+       style="fill:#3e5473;fill-opacity:0.84313726;stroke-width:1.34300005;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect4832"
+       width="11"
+       height="40"
+       x="27.5"
+       y="12.000003" />
+    <rect
+       y="12.000003"
+       x="42.5"
+       height="40"
+       width="11"
+       id="rect4834"
+       style="fill:#3e5473;fill-opacity:0.84313726;stroke-width:0.1;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       style="fill:#3e5574;fill-opacity:1;stroke-width:10;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 70.014382,-1.0909094 c -1.82055,0 -3.287109,1.46655902 -3.287109,3.2871102 l 0,57.4257812 c 0,1.82055 1.466559,3.287109 3.287109,3.287109 l 57.425778,0 c 1.82055,0 3.28711,-1.466559 3.28711,-3.287109 l 0,-6.712891 -53.999997,0 0,-44.0000002 53.999997,0 0,-6.71289 c 0,-1.82055118 -1.46656,-3.2871102 -3.28711,-3.2871102 l -57.425778,0 z"
+       id="rect6227"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
