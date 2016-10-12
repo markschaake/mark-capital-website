@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:export-ydpi="90"
+   inkscape:export-xdpi="90"
+   inkscape:export-filename="/Users/markschaake/projects/mark-capital/website/assets/logo-2-tone-rouned.png"
+   sodipodi:docname="logo-with-name.svg"
+   viewBox="0 0 228 94"
+   inkscape:version="0.91 r13725"
+   version="1.1"
+   id="svg4225"
+   height="94"
+   width="228">
+  <defs
+     id="defs4227" />
+  <sodipodi:namedview
+     inkscape:window-maximized="1"
+     inkscape:window-y="0"
+     inkscape:window-x="4"
+     inkscape:window-height="755"
+     inkscape:window-width="1276"
+     inkscape:grid-bbox="true"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:current-layer="layer1"
+     inkscape:cy="33.278917"
+     inkscape:cx="127.36132"
+     inkscape:zoom="1.9445436"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4137" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata4230">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     transform="translate(0,30)">
+    <g
+       id="g4145"
+       transform="translate(2.8778959,-16)">
+      <rect
+         style="fill:#3e5574;fill-opacity:0.84090905;stroke-width:1.34300005;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect4828"
+         width="11"
+         height="40"
+         x="13"
+         y="12" />
+      <rect
+         y="12.000003"
+         x="27.5"
+         height="40"
+         width="11"
+         id="rect4832"
+         style="fill:#3e5473;fill-opacity:0.84313725;stroke-width:1.34300005;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
+      <rect
+         style="fill:#3e5473;fill-opacity:0.84313725;stroke-width:0.1;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect4834"
+         width="11"
+         height="40"
+         x="42.5"
+         y="12.000003" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         sodipodi:nodetypes="ssssssccccsss"
+         inkscape:connector-curvature="0"
+         id="rect6227"
+         d="M 3.287109,-4e-7 C 1.466559,-4.1389048e-7 0,1.4665586 0,3.2871098 L 0,60.712891 C 0,62.533441 1.466559,64 3.287109,64 l 57.425778,0 c 1.82055,0 3.28711,-1.466559 3.28711,-3.287109 L 63.999997,54 10,54 10,9.9999998 59,10.000445 59,3.287555 C 59,1.4670038 57.53355,1.3890464e-8 55.713,0 Z"
+         style="fill:#3e5574;fill-opacity:1;stroke-width:10;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#3e5574;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="72.001671"
+       y="3.4742739"
+       id="text4139"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4141"
+         x="72.001671"
+         y="3.4742739">Mark</tspan><tspan
+         sodipodi:role="line"
+         x="72.001671"
+         y="53.474274"
+         id="tspan4143">Capital</tspan></text>
+  </g>
+</svg>

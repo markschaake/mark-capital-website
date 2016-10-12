@@ -31,6 +31,7 @@
 
      footer {
        min-height: 100px;
+       padding: 10px;
      }
 
      .contact-info {
@@ -43,15 +44,26 @@
      section.main {
        flex: 1;
        padding: 10px;
+       max-width: 720px;
+       margin: auto;
      }
 
-     header .logo {
-       color: #3e5574;
+     header .brand {
        flex: auto;
        align-items: center;
        display: flex;
        font-size: 36px;
        text-align: center;
+     }
+
+     header .brand img {
+       width: 42px;
+       height: 42px;
+       box-shadow: -3px 3px 5px #ccc;
+     }
+
+     header .brand .title {
+       margin-left: 0.5em;
      }
 
      table.params {
@@ -69,9 +81,9 @@
 
   <body>
     <header>
-      <div class="logo">
+      <div class="brand">
         <img src="assets/logo-2-tone-rounded.png"/>
-        <span class="tagline">Mark Capital</span>
+        <span class="title">Mark Capital</span>
       </div>
       <div class="contact-info">
         <strong>Contact:</strong><br>
@@ -86,6 +98,7 @@
         <h2>Introducing <strong>Mark Capital</strong></h2>
         <strong>Mark Capital</strong> is a new equipment funding source. If you are a broker and would like to learn more about our plans, feel free to email or call us.
       </section>
+      <!--
       <section id="parameters">
         <h2>Funding Parameters</h2>
         <table class="params">
@@ -116,10 +129,11 @@
           </tbody>
         </table>
       </section>
+      -->
     </section>
 
     <footer>
-      <a href="mailto:info@mark.capital">Contact us</a>
+      
     </footer>
   </body>
 </html>
