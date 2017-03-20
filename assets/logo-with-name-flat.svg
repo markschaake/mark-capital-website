@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:export-ydpi="90"
+   inkscape:export-xdpi="90"
+   inkscape:export-filename="/Users/markschaake/Desktop/goog.png"
+   sodipodi:docname="logo-with-name-flat.svg"
+   viewBox="0 0 165 68"
+   inkscape:version="0.91 r13725"
+   version="1.1"
+   id="svg4225"
+   height="68"
+   width="165">
+  <defs
+     id="defs4227">
+    <pattern
+       inkscape:stockid="Stripes 1:1"
+       id="Strips1_1"
+       patternTransform="translate(0,0) scale(10,10)"
+       height="1"
+       width="2"
+       patternUnits="userSpaceOnUse"
+       inkscape:collect="always">
+      <rect
+         id="rect4895"
+         height="2"
+         width="1"
+         y="-0.5"
+         x="0"
+         style="fill:black;stroke:none" />
+    </pattern>
+  </defs>
+  <sodipodi:namedview
+     inkscape:window-maximized="1"
+     inkscape:window-y="1"
+     inkscape:window-x="4"
+     inkscape:window-height="1395"
+     inkscape:window-width="2556"
+     inkscape:grid-bbox="true"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:current-layer="layer1"
+     inkscape:cy="33.278917"
+     inkscape:cx="80.306577"
+     inkscape:zoom="1.9445436"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4137" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata4230">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     transform="translate(0,4)">
+    <g
+       id="g4145"
+       transform="matrix(0.93750004,0,0,0.93749999,4.8778959,3.75e-7)">
+      <rect
+         style="fill:#3e5574;fill-opacity:0.84090905;stroke-width:1.34300005;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect4828"
+         width="11"
+         height="40"
+         x="13"
+         y="12" />
+      <rect
+         y="12.000003"
+         x="27.5"
+         height="40"
+         width="11"
+         id="rect4832"
+         style="fill:#3e5473;fill-opacity:0.84313725;stroke-width:1.34300005;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
+      <rect
+         style="fill:#3e5473;fill-opacity:0.84313725;stroke-width:0.1;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect4834"
+         width="11"
+         height="40"
+         x="42.5"
+         y="12.000003" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         sodipodi:nodetypes="ssssssccccsss"
+         inkscape:connector-curvature="0"
+         id="rect6227"
+         d="M 3.287109,-4e-7 C 1.466559,-4.1389048e-7 0,1.4665586 0,3.2871098 L 0,60.712891 C 0,62.533441 1.466559,64 3.287109,64 l 57.425778,0 c 1.82055,0 3.28711,-1.466559 3.28711,-3.287109 L 63.999997,54 10,54 10,9.9999998 59,10.000445 59,3.287555 C 59,1.4670038 57.53355,1.3890464e-8 55.713,0 Z"
+         style="fill:#3e5574;fill-opacity:1;stroke-width:10;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;line-height:110.00000238%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#3e5574;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;"
+       x="70.401848"
+       y="14.388717"
+       id="text4139"
+       sodipodi:linespacing="110%"><tspan
+         sodipodi:role="line"
+         x="70.401848"
+         y="14.388717"
+         id="tspan4152"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;line-height:110.00000238%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke:none;stroke-opacity:1;">Mark</tspan><tspan
+         sodipodi:role="line"
+         x="70.401848"
+         y="36.388718"
+         id="tspan4162"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;line-height:110.00000238%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke:none;stroke-opacity:1;">Capital</tspan><tspan
+         sodipodi:role="line"
+         x="70.401848"
+         y="58.388718"
+         id="tspan4158"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;line-height:110.00000238%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke:none;stroke-opacity:1;">Finance</tspan></text>
+  </g>
+</svg>
