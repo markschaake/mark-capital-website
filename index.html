@@ -1,6 +1,15 @@
 <!DOCTYPE html>
 <html>
   <head>
+    <!-- Global Site Tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-107734929-1"></script>
+    <script>
+     window.dataLayer = window.dataLayer || [];
+     function gtag(){dataLayer.push(arguments);}
+     gtag('js', new Date());
+
+     gtag('config', 'UA-107734929-1');
+    </script>
 
     <style>
      @import 'https://fonts.googleapis.com/css?family=Montserrat';
@@ -19,12 +28,18 @@
        flex-direction: column;
      }
 
+     a {
+       color: #41419a;
+     }
+     a:visited {
+       color: #41419a;
+     }
+
      header {
-       box-shadow: 0 4px 4px #ccc;
-       padding: 10px;
+       padding: 1em;
      }
      header, footer {
-       background-color: #f3f9ff;
+       background-color: #f7f7f7;
        display: flex;
        flex: none;
      }
@@ -38,13 +53,14 @@
        font-size: 12px;
        display: flex;
        flex-direction: column;
-       justify-content: center;
+       justify-content: space-between;
+       min-height: 5em;
      }
 
      section.main {
        flex: 1;
        padding: 10px;
-       max-width: 720px;
+       max-width: 920px;
        margin: auto;
      }
 
@@ -65,6 +81,8 @@
      header .apply .links {
        display: flex;
        flex-direction: column;
+       justify-content: space-between;
+       min-height: 3em;
      }
 
      header .brand img {
@@ -98,13 +116,13 @@
       </div>
       <div class="apply">
         <div class="links">
-          <a href="https://www.flex.finance">Apply via FLEX Finance</a><br>
+          <a href="https://www.flex.finance">Apply via FLEX Finance</a>
           <a href="assets/MarkCapitalCreditApplication.pdf">Download Our Credit Application</a>
         </div>
       </div>
       <div class="contact-info">
-        <strong>Contact:</strong><br>
-        <a href="tel:206-453-1867">(206) 453-1867</a><br>
+        <strong>Contact:</strong>
+        <a href="tel:206-453-1867">(206) 453-1867</a>
         <a href="mailto:info@mark.capital">info@mark.capital</a>
       </div>
     </header>
@@ -113,42 +131,28 @@
 
       <section id="about">
         <h2>Introducing <strong>Mark Capital</strong></h2>
-        <strong>Mark Capital</strong> is a new equipment funding source. If you are a broker and would like to learn more about our plans, feel free to email or call us.
+        <strong>Mark Capital</strong> is a commercial lender to businesses in the western United States (excluding California).
+        We like to think of ourselves as a story lender or a "common sense" lender who knows its customers.
+        Prior to approval, we make sure to have at least a phone meeting with each customer, and when possible a face-to-face meeting.
+        <p>We hold our own paper and service loans from start to finish.</p>
+        <h3>Request Parameters</h3>
+        <p>We are currently considering transactions that meet the following parameters:
+          <ul>
+            <li>Funding request between $30K and $150K</li>
+            <li>Business located in one of the following states: WA, OR, ID, MT, NV, UT, CO, AZ, WY</li>
+            <li>Hard collateral, such as: trucks, trailers, logging equipment, agriculture equipment, construction equipment. New and used equipment are acceptable.</li>
+          </ul>
+        </p>
+        <p>Assuming the customer's story makes sense, we can fund deals where the customer is a startup or has had a prior bankruptcy.</p>
       </section>
-      <!--
-           <section id="parameters">
-           <h2>Funding Parameters</h2>
-           <table class="params">
-           <thead></thead>
-           <tbody>
-           <tr><th>Transaction Size</th><td>$20,000 to $250,000</td></tr>
-           <tr><th>Term Length</th><td>24 to 60 months</td></tr>
-           <tr>
-           <th>Preferred Equipment</th>
-           <td><ul>
-           <li>Trucks and Trailers</li>
-           <li>Construction</li>
-           <li>Logging</li>
-           <li>Agriculture</li>
-           </ul></td>
-           </tr>
-           <tr>
-           <th>States Served</th>
-           <td><ul>
-           <li>Washington</li>
-           <li>Oregon</li>
-           <li>Idaho</li>
-           <li>Montana</li>
-           <li>Utah</li>
-           <li>California</li>
-           </ul></td>
-           </tr>
-           </tbody>
-           </table>
-           </section>
-         -->
-    </section>
 
+      <!--
+      <section id="team">
+        <h2>The Team</h2>
+        <p><strong>Mark Schaake</strong> </p>
+      </section>
+      -->
+    </section>
     <footer>
       
     </footer>

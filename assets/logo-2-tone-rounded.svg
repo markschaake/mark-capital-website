@@ -25,14 +25,14 @@
      inkscape:window-maximized="0"
      inkscape:window-y="0"
      inkscape:window-x="43"
-     inkscape:window-height="755"
-     inkscape:window-width="1276"
+     inkscape:window-height="1126"
+     inkscape:window-width="2161"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
      showgrid="true"
      inkscape:current-layer="layer1"
-     inkscape:cy="32.480429"
-     inkscape:cx="7.8242616"
+     inkscape:cy="39.753156"
+     inkscape:cx="26.278807"
      inkscape:zoom="5.5"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
@@ -55,7 +55,8 @@
   <g
      id="layer1"
      inkscape:label="Layer 1"
-     inkscape:groupmode="layer">
+     inkscape:groupmode="layer"
+     style="opacity:1">
     <rect
        y="12"
        x="13"
